@@ -4,7 +4,7 @@ subtitle: Aftermovie
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
+video: 108700065
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
