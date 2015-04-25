@@ -1,0 +1,18 @@
+---
+title: Civiele Techniek open dag
+subtitle: Promotie
+layout: default
+modal-id: 6
+date: 2014-05-01
+video: 105990463
+thumbnail: civiel.jpg
+alt: image-alt
+project-date: Mei 2014
+client: TU Delft Civiele Techniek
+category: Promototie
+description: Promotie film die werd getoond op de open dag van Civiele Techniek in het voorjaar 2014.
+Film: Antoine Kooren & Stijn Balk
+Edit: Antoine Kooren & Stijn Balk
+Music: Milky Chance - Flashed junk mind
+
+---

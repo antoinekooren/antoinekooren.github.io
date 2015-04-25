@@ -1,0 +1,18 @@
+---
+title: Drop Festival 2013
+subtitle: Evenement
+layout: default
+modal-id: 2
+date: 2013-05-01
+video: 106395926
+thumbnail: drop.jpg
+alt: image-alt
+project-date: Mei 2013
+client: DROP Boardsportvereniging
+category: Evenement
+description: Aftermovie van Drop festival 2013.
+Film: Antoine Kooren & Stijn Balk
+Edit: Antoine Kooren & Stijn balk
+Music: Mr Scruff - Get a move on
+
+---

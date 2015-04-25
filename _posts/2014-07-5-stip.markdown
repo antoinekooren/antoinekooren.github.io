@@ -1,0 +1,18 @@
+---
+title: STIP campagne
+subtitle: Promotie
+layout: default
+modal-id: 5
+date: 2014-03-01
+video: 105989917
+thumbnail: stip.jpg
+alt: image-alt
+project-date: Maart 2014
+client: STIP Delft
+category: Promotie
+description: Bekendmaking van de locatie van het Virgiel gala in 2014.
+Film: Antoine Kooren, Mimi Oldenhave & Stijn Balk
+Edit: Antoine Kooren & Mimi Oldenhave
+Music Marvin Gaye - I heard it trough the grapevine
+
+---

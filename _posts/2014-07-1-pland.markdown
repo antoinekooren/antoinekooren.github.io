@@ -1,0 +1,20 @@
+---
+title: Plan_D Introductie
+subtitle: Promotie
+layout: default
+modal-id: 1
+date: 2013-01-01
+video: 105344062
+thumbnail: pland.jpg
+alt: image-alt
+project-date: Januari 2013
+client: Plan_D
+category: Promotie
+description: Intro filmpje over de onderwerpen waar Plan_D zich mee bezig gaat houden.
+
+Film: Stijn Balk
+Edit: Stijn Balk
+
+Music: Atnarko - McQueen Holding Me
+
+---

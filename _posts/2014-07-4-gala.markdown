@@ -1,0 +1,18 @@
+---
+title: Gala Virgiel
+subtitle: Promotie
+layout: default
+modal-id: 4
+date: 2014-01-01
+video: 105344066
+thumbnail: gala.jpg
+alt: image-alt
+project-date: Januari 2014
+client: Gala Commissie Virgiel
+category: Promotie
+description: Bekendmaking van de locatie van het Virgiel gala in 2014.
+Film: Antoine Kooren, Mimi Oldenhave & Stijn Balk
+Edit: Antoine Kooren & Mimi Oldenhave
+Music Marvin Gaye - I heard it trough the grapevine
+
+---

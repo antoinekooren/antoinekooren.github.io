@@ -1,0 +1,18 @@
+---
+title: Ohm Festival 2013
+subtitle: Evenement
+layout: default
+modal-id: 3
+date: 2013-08-01
+video: 108700065
+thumbnail: ohm.jpg
+alt: image-alt
+project-date: Augustus 2013
+client: Elevation Events & ZeeZout
+category: Evenement
+description: De Aftermovie van Ohm Festival van 17 augustus 2013 op Lijm & Cultuur in Delft. Georganiseerd door Elevation Events & ZeeZout.
+Film: Antoine Kooren & Stijn Balk
+Edit: Antoine Kooren & Stijn Balk
+Music: Rachel Row - Follow The Step (Justin Martin Remix)
+
+---
